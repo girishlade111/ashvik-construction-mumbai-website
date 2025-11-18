@@ -1,0 +1,12 @@
+# robots.txt for Ashvik Construction
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://ashvikconstruction.com/sitemap.xml
+
+# Crawl-delay for all bots
+Crawl-delay: 1
